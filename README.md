@@ -1,5 +1,5 @@
 
-# Save & Capture Chrome Live Caption as Text 2025
+# Real-Time Chrome Live Caption Saver (2025 Edition)
 ![Demo](Demo.gif)
 A powerful **C++** application that captures **Chrome Live Captions** and converts them to **text in real-time**. Perfect for improving accessibility, saving transcripts, or analyzing spoken content from videos—especially useful for job interviews or conversations with GPT-powered AI tools. <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UnlockRespondus.live-caption-capture-text" />
 
